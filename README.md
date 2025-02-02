@@ -1,4 +1,4 @@
-![Watch Now](./img/Design.jpg)
+![Watch Now](./img/hero-bg.png)
 # Fatima Zohra Cybersecurity Portfolio
 
 
